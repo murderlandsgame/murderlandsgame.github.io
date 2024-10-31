@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "MurderLands",
-"dataUrl": "https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/9EL8g9uK2padsYE1VpJLzzRq3oE3/ca44a2f9-885d-481d-8e32-4b98f3b892d2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e%2F20241031%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20241031T081054Z&X-Amz-Expires=43200&X-Amz-Signature=505b81aaf02245db69381b64161874e0c6a1ac9c70a1d22c5787d9fac8084aaa&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22murderlandsgamewebglv1.data.unityweb%22",
+"dataUrl": "https://bitbucket.org/pooppooo/file/downloads/murderlandsgamewebglv1.data.unityweb",
 "asmCodeUrl": "murderlandsgamewebglv1.asm.code.unityweb",
 "asmMemoryUrl": "murderlandsgamewebglv1.asm.memory.unityweb",
 "asmFrameworkUrl": "murderlandsgamewebglv1.asm.framework.unityweb",
