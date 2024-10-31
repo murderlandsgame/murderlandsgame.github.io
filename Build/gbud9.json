@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "MurderLands",
-"dataUrl": "gbud9.data.unityweb",
+"dataUrl": "https://bitbucket.org/pooppooo/file/downloads/gbud9.data.unityweb",
 "asmCodeUrl": "gbud9.asm.code.unityweb",
 "asmMemoryUrl": "gbud9.asm.memory.unityweb",
 "asmFrameworkUrl": "gbud9.asm.framework.unityweb",
